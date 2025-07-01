@@ -10,8 +10,8 @@ const Hero = () => {
         <a href="mailto:suhani4shinde@gmail.com" className={styles.contactBtn}>Contact Me</a>
     </div>
     <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImage} />
-    <div> className={StyleSheet.topBlur}</div>
-    <div> className={StyleSheet.bottomBlur}</div>
+    <div className={StyleSheet.topBlur}/>
+    <div className={StyleSheet.bottomBlur}/>
   </section>
 }
  
