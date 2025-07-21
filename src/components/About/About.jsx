@@ -34,7 +34,7 @@ const About = () => {
                 <div className={styles.aboutItemText}>
                     <h3>Cyber Security Enthusiast</h3>
                     <p>
-                        I am a developer with insterst in developing secure websites. Pranjal
+                        I am a developer with insterst in developing secure websites.
                     </p>
                 </div>
             </li>
