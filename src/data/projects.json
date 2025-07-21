@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "URL Phishing Detection",
+    "imageSrc": "projects/phishing.png",
+    "description": "A machine learning-based system to detect phishing websites using a dataset of phishing and benign URLs. Integrated with a real-time browser extension for proactive user protection.",
+    "skills": ["Python", "Scikit-learn", "XGBoost", "JavaScript", "HTML", "CSS"],
+    "demo": "#",
+    "source": "#"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Vulnerability Management Dashboard",
+    "imageSrc": "projects/vulndashboard.png",
+    "description": "An interactive dashboard that analyzes vulnerabilities from open-source scanners and provides automated risk scoring and remediation suggestions.",
+    "skills": ["React", "Node.js", "PostgreSQL", "Python", "Docker", "OWASP ZAP API"],
+    "demo": "#",
+    "source": "#"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Forest Fire Prediction System",
+    "imageSrc": "projects/forestfire.png",
+    "description": "Built a web interface integrated with a backend ML model to predict the likelihood of forest fires using real-time environmental data.",
+    "skills": ["Python", "Scikit-learn", "Flask/Django", "HTML", "CSS", "JavaScript"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Weather Or Not",
+    "imageSrc": "projects/weatherapp.png",
+    "description": "A responsive weather forecasting website with real-time updates and geolocation-based personalized forecasts using external weather APIs.",
+    "skills": ["JavaScript", "HTML", "CSS", "APIs", "Data Visualization"],
+    "demo": "#",
+    "source": "#"
   }
 ]
