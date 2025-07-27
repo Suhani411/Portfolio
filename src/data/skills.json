@@ -1,9 +1,5 @@
 [
   {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
-  },
-  {
     "title": "Java",
     "imageSrc": "skills/java.png"
   },
@@ -13,31 +9,43 @@
   },
   {
     "title": "ReactJS",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Node.js",
-    "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "Django",
-    "imageSrc": "skills/django.png"
+    "imageSrc": "skills/reactjs.png"
   },
   {
     "title": "PostgreSQL",
     "imageSrc": "skills/postgresql.png"
   },
   {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+    {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+    {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Firebase",
-    "imageSrc": "skills/firebase.png"
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
   },
   {
     "title": "Git",
     "imageSrc": "skills/git.png"
+  },
+    {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
   },
   {
     "title": "Docker",
@@ -48,11 +56,11 @@
     "imageSrc": "skills/aws.png"
   },
   {
-    "title": "OWASP ZAP",
-    "imageSrc": "skills/owaspzap.png"
-  },
-  {
     "title": "Wireshark",
     "imageSrc": "skills/wireshark.png"
+  },
+  {
+    "title": "OWASP ZAP",
+    "imageSrc": "skills/owaspzap.png"
   }
 ]
